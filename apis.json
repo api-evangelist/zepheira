@@ -1,0 +1,53 @@
+{
+    "name": "Zepheira",
+    "description": "<p>Organizations from a variety of industries have worked with Zepheira to better use the Web to unlock, connect, visualize, analyze and augment data assets across system boundaries.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/zepheira.png",
+    "tags": [
+        "agencies",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zepheira\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Zepheira",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/zepheira.png",
+            "humanURL": "http:\/\/zepheira.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zepheira-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/zepheira.com\/news\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/zepheira.com\/feed\/atom\/"
+        },
+        {
+            "type": "Email",
+            "url": "solutions@zepheira.com "
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/zepheiraorg"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/zepheira.com\/"
+        }
+    ]
+}
