@@ -7,8 +7,8 @@
         "have api",
         "profile"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-22",
+    "modified": "2019-12-22",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zepheira\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -22,13 +22,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zepheira-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zepheira\/master\/zepheira-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "http:\/\/zepheira.com\/news\/"
